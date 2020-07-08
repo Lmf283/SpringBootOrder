@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: orderSpringBoot Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 刘美芬
+Implementation-Vendor-Id: com.lmf
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
